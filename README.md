@@ -1,1 +1,2 @@
-# meshtastic-docs-
+# Dokumentacje i wszystkie inne pierdolety do Meshtastica
+
